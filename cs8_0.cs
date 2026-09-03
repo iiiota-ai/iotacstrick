@@ -64,3 +64,12 @@ class MyClass
         return true;
     }
 }
+
+// 2. null-coalescing ?? ??= 空合并
+
+//int GetValue()
+//{
+//    int? x = null;
+//    // ??：表示为null返回其后的默认值
+//    return x ?? -1;
+//}
